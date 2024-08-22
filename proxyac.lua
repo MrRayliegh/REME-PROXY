@@ -1,4 +1,5 @@
 return {
+    487237,    -- OWNER
     628077,    -- kendrax
     469440,    -- quandingle
     216323,    -- SALMAN
@@ -21,5 +22,7 @@ return {
     368010,     -- Matcho rin
     554244,     -- Dispo2
     830899,   -- Nerei
-    222943  -- Richz
+    222943,  -- Richz
+    351203,  -- ZMHROAD
+    509684   -- nonong
 }
