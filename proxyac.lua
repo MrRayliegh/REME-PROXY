@@ -24,5 +24,6 @@ return {
     830899,   -- Nerei
     222943,  -- Richz
     351203,  -- ZMHROAD
-    509684   -- nonong
+    509684,   -- nonong
+    393656 -- Cocoo
 }
