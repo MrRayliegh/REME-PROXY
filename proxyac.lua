@@ -30,5 +30,6 @@ return {
     637431, -- bonarch
     420477, -- Rahmaaa
     832810, -- FadilAja
-    456088 -- Junn
+    456088, -- Junn
+    840362  -- polytronipadkidzz
 }
