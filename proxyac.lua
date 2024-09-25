@@ -32,5 +32,6 @@ return {
     832810, -- FadilAja
     456088, -- Junn
     840362,  -- polytronipadkidzz
-    841781 -- Xekuy
+    841781, -- Xekuy
+    788482 -- BossMuda
 }
