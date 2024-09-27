@@ -33,5 +33,6 @@ return {
     456088, -- Junn
     840362,  -- polytronipadkidzz
     841781, -- Xekuy
-    788482 -- BossMuda
+    788482, -- BossMuda
+    851252 -- anitamaxwyn
 }
