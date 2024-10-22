@@ -35,5 +35,6 @@ return {
     841781, -- Xekuy
     788482, -- BossMuda
     851252, -- anitamaxwyn
-    664674 -- Kopekkk
+    664674, -- Kopekkk
+    856974 -- Zakz
 }
