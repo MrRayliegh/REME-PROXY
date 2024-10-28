@@ -37,5 +37,6 @@ return {
     851252, -- anitamaxwyn
     664674, -- Kopekkk
     856974, -- Zakz
-    855809 -- haniff
+    855809, -- haniff
+    826782 -- Lukass2
 }
