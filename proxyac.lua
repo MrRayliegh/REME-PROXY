@@ -38,5 +38,6 @@ return {
     664674, -- Kopekkk
     856974, -- Zakz
     855809, -- haniff
-    826782 -- Lukass2
+    826782, -- Lukass2
+    774286 -- FAUZAN3
 }
