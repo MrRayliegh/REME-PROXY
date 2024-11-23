@@ -40,5 +40,6 @@ return {
     855809, -- haniff
     826782, -- Lukass2
     774286, -- FAUZAN3
-    860215 -- D-moom
+    860215, -- D-moom
+    580300 -- lord
 }
