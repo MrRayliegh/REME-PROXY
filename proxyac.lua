@@ -41,5 +41,6 @@ return {
     826782, -- Lukass2
     774286, -- FAUZAN3
     860215, -- D-moom
-    580300 -- lord
+    580300, -- lord
+    180567 -- kamtzy
 }
