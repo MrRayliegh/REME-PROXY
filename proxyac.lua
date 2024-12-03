@@ -43,5 +43,6 @@ return {
     860215, -- D-moom
     580300, -- lord
     180567, -- kamtzy
-    829361 -- wiz
+    829361, -- wiz
+    774243 --maulana
 }
