@@ -44,5 +44,6 @@ return {
     580300, -- lord
     180567, -- kamtzy
     829361, -- wiz
-    774243 --maulana
+    774243, --maulana
+    639437 -- chillguy
 }
