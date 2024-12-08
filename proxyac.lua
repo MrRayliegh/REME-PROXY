@@ -45,5 +45,6 @@ return {
     180567, -- kamtzy
     829361, -- wiz
     774243, --maulana
-    639437 -- chillguy
+    639437, -- chillguy
+    735609 -- Xiuu
 }
