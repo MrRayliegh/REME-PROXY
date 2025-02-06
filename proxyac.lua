@@ -50,5 +50,6 @@ return {
     249246, -- kamtzy2
     496448, --Meldis
     490194, -- MATH / ALEGLO
-    495681 -- kentaro
+    495681, -- kentaro
+    908902 -- SEAN
 }
