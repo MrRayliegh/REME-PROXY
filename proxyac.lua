@@ -51,5 +51,6 @@ return {
     496448, --Meldis
     490194, -- MATH / ALEGLO
     495681, -- kentaro
-    908902 -- SEAN
+    908902, -- SEAN
+    895978 -- papideel
 }
