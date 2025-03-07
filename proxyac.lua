@@ -53,5 +53,6 @@ return {
     495681, -- kentaro
     908902, -- SEAN
     895978, -- papideel
-    334894 -- Carl
+    334894, -- Carl
+    792356 -- Jawirko
 }
