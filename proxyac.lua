@@ -55,5 +55,6 @@ return {
     895978, -- papideel
     334894, -- Carl
     792356, -- Jawirko
-    532937 -- ThisZenn
+    532937, -- ThisZenn
+    550529 -- Schoolll
 }
