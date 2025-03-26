@@ -57,5 +57,6 @@ return {
     792356, -- Jawirko
     532937, -- ThisZenn
     550529, -- Schoolll
-    926087 -- mm5
+    926087, -- mm5
+    176661 -- panxz
 }
