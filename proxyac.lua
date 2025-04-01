@@ -59,6 +59,5 @@ return {
     550529, -- Schoolll
     926087, -- mm5
     176661, -- panxz
-    717356, -- KingSikma
-    554794 -- Jisooo
+    717356 -- KingSikma
 }
