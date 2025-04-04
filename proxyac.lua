@@ -61,5 +61,6 @@ return {
     176661, -- panxz
     717356, -- KingSikma
     689439, -- 505
-    18139 -- kapirawr
+    18139, -- kapirawr
+    711404 -- ewqbanned
 }
