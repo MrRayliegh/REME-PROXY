@@ -62,5 +62,6 @@ return {
     717356, -- KingSikma
     689439, -- 505
     18139, -- kapirawr
-    711404 -- ewqbanned
+    711404, -- ewqbanned
+    512227 -- blancs
 }
