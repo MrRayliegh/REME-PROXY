@@ -63,5 +63,6 @@ return {
     689439, -- 505
     18139, -- kapirawr
     711404, -- ewqbanned
-    512227 -- blancs
+    512227, -- blancs
+    300546 -- TRIBAL
 }
