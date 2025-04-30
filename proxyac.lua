@@ -65,5 +65,6 @@ return {
     711404, -- ewqbanned
     512227, -- blancs
     300546, -- TRIBAL
-    782707 -- ElNozel
+    782707, -- ElNozel
+    944361 -- George Droyd
 }
