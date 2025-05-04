@@ -66,5 +66,6 @@ return {
     512227, -- blancs
     300546, -- TRIBAL
     782707, -- ElNozel
-    944361 -- George Droyd
+    944361, -- George Droyd
+    265066 -- rifkioke
 }
